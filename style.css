@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: #fff;
+}
+
+#transactionHistory >  span {
+    margin-right: 50px;
+}
+
+.incomeAdd {
+    color: green;
+}
+
+.expenseAdd {
+    color: red;
+}
